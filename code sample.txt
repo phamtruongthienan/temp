@@ -1,0 +1,45 @@
+//Controller class
+public function test(Request $request) {
+        $rules = array(
+            'email' => 'required|email'
+        );
+        $validator = Validator::make(Input::all(), $rules);
+        if ($validator->fails()) {
+           return response()->json(['error' => 'There are some errors.']);
+        } else {
+            try {
+                $check = $this->getCheck($request->email);
+                if($check === true) {
+                    return response()->json(['success' => 'OK']);
+                } else {
+                   return response()->json(['error' => 'There are some errors.']);
+                }
+            } catch (\Exception $e) {
+               return response()->json(['error' => 'There are some errors.']);
+            }
+        }
+}
+
+
+// Helper Class
+public function getCheck($email)
+{
+	try {
+		// Handler Database
+		$query = MTest::where..............
+		if($query->count() > 0) {
+			return true;
+		} else {
+			return false;
+		}
+	} catch (\Exception $e) {
+		return false;
+	}
+}
+
+// Model class
+
+class MTest extends Eloquent
+{
+    protected $table = 'table_test';
+}
