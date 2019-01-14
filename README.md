@@ -1,2 +1,3 @@
 # temp
-temp php,html, css, jquery, ...
+Readme da chinh sua
+
