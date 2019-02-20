@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "provin": "Cà Mau"
+    },
+    {
+      "id": "2",
+      "provin": "Đăk Nông"
+      
+    },
+    {
+      "id": "3",
+      "provin": "Lâm Đồng"
+    
+    },
+    {
+      "id": "5",
+      "provin": "Đăk Lăk"
+     
+    },
+    {
+      "id": "6",
+      "provin": "Cà Mau"
+    
+    },
+    {
+      "id": "9",
+      "provin": "Cà Mau"
+     
+    },
+    {
+      "id": "10",
+      "provin": "Bình Dương"
+    
+    }
+  ]
+}

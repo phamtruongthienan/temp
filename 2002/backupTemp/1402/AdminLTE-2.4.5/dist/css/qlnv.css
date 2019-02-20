@@ -1,0 +1,44 @@
+.text-cen{
+    text-align: center;
+    /* color: blue; */
+}
+
+#addEmployee{
+    font-size: 2.2em;
+    top: 0;
+    float: right;
+    margin-right: 10px;
+}
+.fa {
+    cursor: pointer;
+}
+.table-action .fa{
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.page-header {
+    margin: 10px 0 20px 0;
+    font-size: 22px;
+}
+
+.table-action {
+    font-size: 20px;
+}
+
+.active span{
+    color: #b8c7ce;
+}
+
+#addDistrict , #addWard{    position: absolute;
+    right: 20px;
+    top: 20px;
+    font-size: 30px;
+}
+
+.select2-selection__choice{
+    border: 1px solid #aaa !important;
+    background-color: #3c8dbc !important;
+    border-color: #367fa9 !important;
+    padding: 1px 10px !important;
+}

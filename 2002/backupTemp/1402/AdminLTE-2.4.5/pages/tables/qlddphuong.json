@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "district": "Thành phố Cà Mau",
+      "name": "Thành phố Thành phố Cà Mau"
+    },
+    {
+      "id": "2",
+      "district": "Thành phố Cà Mau",
+      "name": "Huyện Cư Jut"
+    },
+    {
+      "id": "3",
+      "district": "Thành phố Cà Mau",
+      "name": "Huyện Nô bi ta"
+    },
+    {
+      "id": "5",
+      "district": "Thành phố Cà Mau",
+      "name": "Huyện Pokémon"
+    },
+    {
+      "id": "6",
+      "district": "Thành phố Cà Mau",
+      "name": "Phường Hiệp Phú"
+    },
+    {
+      "id": "9",
+      "district": "Thành phố Cà Mau",
+      "name": "Thành phố Thành phố Cà Mau"
+    },
+    {
+      "id": "10",
+      "district": "Thành phố Cà Mau",
+      "name": "Thành phố Thành phố Cà Mau"
+    }
+  ]
+}

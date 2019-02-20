@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "email": "abc123@gmail.com",
+      "name": "Aris Viet Nam",
+      "phone": "024568154",
+      "birth": "1991-12-23 00:00:00",
+      "active": "0",
+      "role": "Admin",
+      "action": "1"
+    },
+    {
+      "id": "2",
+      "email": "abc123@gmail.com",
+      "name": "Aris Viet Nam",
+      "phone": "024568154",
+      "birth": "1991-12-23 00:00:00",
+      "active": "1",
+      "role": "Moderator",
+      "action": "1"
+    },
+    {
+      "id": "3",
+      "email": "abc123@gmail.com",
+      "name": "Aris Viet Nam",
+      "phone": "024568154",
+      "birth": "1991-12-23 00:00:00",
+      "active": "0",
+      "role": "Moderator",
+      "action": "1"
+    },
+    {
+      "id": "5",
+      "email": "abc123@gmail.com",
+      "name": "Aris Viet Nam",
+      "phone": "024568154",
+      "birth": "1991-12-23 00:00:00",
+      "active": "1",
+      "role": "Admin",
+      "action": "1"
+    },
+    {
+      "id": "6",
+      "email": "abc123@gmail.com",
+      "name": "Aris Viet Nam",
+      "phone": "024568154",
+      "birth": "1991-12-23 00:00:00",
+      "active": "1",
+      "role": "Member",
+      "action": "1"
+    },
+    {
+      "id": "9",
+      "email": "abc123@gmail.com",
+      "name": "Aris Viet Nam",
+      "phone": "024568154",
+      "birth": "1991-12-23 00:00:00",
+      "active": "1",
+      "role": "Moderator",
+      "action": "1"
+    },
+    {
+      "id": "10",
+      "email": "abc123@gmail.com",
+      "name": "Aris Viet Nam",
+      "phone": "024568154",
+      "birth": "1991-12-23 00:00:00",
+      "active": "0",
+      "role": "Member",
+      "action": "1"
+    }
+  ]
+}

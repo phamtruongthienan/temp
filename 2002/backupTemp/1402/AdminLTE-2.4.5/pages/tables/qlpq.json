@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "admin",
+      "display": "Admin",
+      "describe": "Admin role"
+    },
+    {
+      "id": "2",
+      "name": "moderator",
+      "display": "Moderator",
+      "describe": "Moderator role"
+    },
+    {
+      "id": "3",
+      "name": "member",
+      "display": "Member",
+      "describe": "Member role"
+    }
+  ]
+}
